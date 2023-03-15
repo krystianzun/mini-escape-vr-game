@@ -4378,8 +4378,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_InteractionManager: {fileID: 1533333289}
-  m_Colliders:
-  - {fileID: 494865967}
+  m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -4447,7 +4446,7 @@ MonoBehaviour:
       m_Calls: []
   m_TeleportationProvider: {fileID: 489325476}
   m_MatchOrientation: 0
-  m_TeleportTrigger: 0
+  m_TeleportTrigger: 3
   m_Teleporting:
     m_PersistentCalls:
       m_Calls: []
