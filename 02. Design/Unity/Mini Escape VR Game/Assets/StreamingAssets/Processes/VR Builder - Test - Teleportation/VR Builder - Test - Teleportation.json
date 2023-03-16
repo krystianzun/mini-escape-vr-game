@@ -522,8 +522,8 @@
           "$id": "101",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 1008.0,
-            "y": 107.999992
+            "x": 1034.0,
+            "y": 111.999992
           },
           "StepType": "default"
         },
@@ -723,7 +723,7 @@
       "FirstChapter": {
         "$ref": "132"
       },
-      "Name": "VR Builder - Test 2",
+      "Name": "VR Builder - Test - Teleportation",
       "Mode": null,
       "Metadata": null
     }

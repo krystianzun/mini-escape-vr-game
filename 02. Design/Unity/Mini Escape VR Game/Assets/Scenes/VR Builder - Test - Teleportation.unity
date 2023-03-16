@@ -3550,8 +3550,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   runtimeConfigurationName: VRBuilder.Core.Configuration.DefaultRuntimeConfiguration,
     VRBuilder.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-  selectedProcessStreamingAssetsPath: Processes/VR Builder - Test 2/VR Builder -
-    Test 2.json
+  selectedProcessStreamingAssetsPath: C:/Users/kryst/Documents/GitHub/mini-escape-vr-game/02.
+    Design/Unity/Mini Escape VR Game/Assets/StreamingAssets/Processes/VR Builder
+    - Test - Teleportation/VR Builder - Test - Teleportation.json
 --- !u!4 &1238496975
 Transform:
   m_ObjectHideFlags: 0
