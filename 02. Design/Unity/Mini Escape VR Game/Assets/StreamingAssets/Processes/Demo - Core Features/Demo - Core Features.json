@@ -3287,7 +3287,7 @@
               "TabsGroup": {
                 "$id": "600",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 0
+                "selected": 2
               }
             }
           }
@@ -3752,8 +3752,8 @@
           "$id": "684",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 792.8,
-            "y": 0.0
+            "x": 790.6667,
+            "y": 0.666666031
           },
           "StepType": "default"
         },
@@ -5768,7 +5768,7 @@
               "$id": "1038",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
               "LastSelectedStep": {
-                "$ref": "737"
+                "$ref": "655"
               },
               "EntryNodePosition": {
                 "x": -35.2,
